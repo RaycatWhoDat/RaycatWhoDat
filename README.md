@@ -14,10 +14,10 @@ How's it going?
 * ...you want a nice CLI tool to use every now-and-then.
 * ...startup time and performance are less of an priority.
 
-#### Choose [Nim](https://nim-lang.org) if:
+#### Choose [D](https://dlang.org) if:
 * ...you want to make cross-platform tools.
-* ...you want to compile to C.
-* ...you don't mind pulling in libraries or using macros to add additional functionality.
+* ...performance needs to be better than Raku.
+* ...you don't mind tweaking a stop-the-world garbage collector.
 
 #### Choose [Rust](http://rust-lang.org) if:
 * ...you need speed and safety.
