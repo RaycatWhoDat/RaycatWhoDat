@@ -6,10 +6,11 @@ How's it going?
 
 #### You'll know when you need JavaScript.
 * And, if you can get away with [TypeScript](https://www.typescript-lang.org/index.html), you should.
+* [Haxe](https://haxe.org) is also a good choice.
 
 #### You'll also know when you need Lisp.
 
-#### Choose [Haxe](https://haxe.org) if:
+#### Choose [Nim](https://nim-lang.org) if:
 * ...you want to make cross-platform tools.
 * ...you need to run a tight, one dev operation.
 * ...you don't mind learning a bit about your target and monkey-patching a few things.
@@ -18,13 +19,6 @@ How's it going?
 * ...you need to parse text.
 * ...you want a nice CLI tool to use every now-and-then.
 * ...startup time and performance are less of an priority.
-
-#### Choose [D](https://dlang.org) if:
-* ...performance needs to be better than Raku.
-* ...you need a "script" that can scale out to be a larger project.
-* ...you don't mind tweaking a stop-the-world garbage collector.
-
-##### NOTE: D and Raku are two sides of the same coin and share many similarities.
 
 #### Choose [Rust](http://rust-lang.org) if:
 * ...you need speed and safety.
