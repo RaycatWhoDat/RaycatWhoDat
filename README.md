@@ -7,6 +7,7 @@ How's it going?
 #### You'll know when you need JavaScript.
 * And, if you can get away with [TypeScript](https://www.typescript-lang.org/index.html), you should.
 * [Haxe](https://haxe.org) is also a good choice.
+* [Nim](https://nim-lang.org) can transpile to JavaScript as well.
 
 #### You'll also know when you need Lisp.
 
