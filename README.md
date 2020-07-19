@@ -11,15 +11,11 @@ How's it going?
 
 #### You'll also know when you need Lisp.
 
-#### Choose [Raku](https://raku.org) if:
-* ...you need to parse text.
-* ...you want a nice CLI tool to use every now-and-then.
-* ...startup time and performance are less of an priority.
-
 #### Choose [D](https://dlang.org) if:
 * ...you want to make cross-platform tools.
 * ...you need a better-by-degrees C++ with a gentle learning curve.
-* ...you don't mind learning a bit about your target and monkey-patching a few things.
+* ...[Raku](https://raku.org) hasn't gotten its speed-up yet.
+* ...you don't mind tweaking a stop-the-world GC.
 
 #### Choose [Rust](http://rust-lang.org) if:
 * ...you need speed and safety.
