@@ -19,7 +19,7 @@ How's it going?
 * ...you want to write expressive code for personal use.
 * ...you don't have a performance constraint.
 
-##### Check out [Red](https://red-lang.org) when it reaches 0.7.0. (Ports, file I/O)
+##### Check out [Red](http://red-lang.org) when it reaches 0.7.0. (Ports, file I/O)
 
 #### Choose [Rust](https://rust-lang.org) if:
 * ...you need speed and safety.
