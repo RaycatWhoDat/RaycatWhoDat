@@ -5,9 +5,9 @@ How's it going?
 ### So, you're trying to choose a language...
 
 My current languages of choice are:
-* JavaScript/TypeScript
-* Rust (begrudgingly)
-* Lisp (Emacs, TXR)
+* JavaScript (TypeScript)
+* C++ (\*panic intensifies\*)
+* Lisp (Emacs, TXR, Common)
 * Haxe
 
 #### You'll know when you need JavaScript.
