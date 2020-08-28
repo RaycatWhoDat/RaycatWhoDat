@@ -6,9 +6,11 @@ How's it going?
 
 My current languages of choice are:
 * JavaScript (TypeScript)
-* Emacs Lisp
+* Haxe
 
-The rest of them are flavors of the day.
+The rest are flavors of the day:
+* Lisp/Scheme (Emacs, Racket)
+* Rust (begrudgingly)
 
 #### You'll know when you need JavaScript.
 * And, if you can get away with [TypeScript](https://www.typescript-lang.org/index.html), you should.
