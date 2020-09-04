@@ -5,11 +5,11 @@ How's it going?
 ### So, you're trying to choose a language...
 
 My current languages of choice are:
-* JavaScript
-* Emacs Lisp
-* Haxe
-* Raku
-* Rust
+* **JavaScript** ($$$)
+* **Rust** (For speed, $$$)
+* **Emacs Lisp** (For modifying Emacs)
+* **Haxe** (For games)
+* **Raku** (For text processing/"skriptz")
 
 #### You'll know when you need JavaScript.
 * And, if you can get away with [TypeScript](https://www.typescript-lang.org/index.html), you should.
@@ -26,13 +26,13 @@ My current languages of choice are:
 * ...you don't mind longer compile times.
 * ...you don't mind "the Rust way or the highway".
 
+#### Choose [Raku](https://raku.org) if:
+* ...you want to write expressive code for personal use.
+* ...you don't have a performance constraint.
+
 #### Choose [D](https://dlang.org) if:
 * ...you need a better-by-degrees C++ with a gentle learning curve.
 * ...you don't mind tweaking a stop-the-world GC.
-
-#### Conversely, choose [Raku](https://raku.org) if:
-* ...you want to write expressive code for personal use.
-* ...you don't have a performance constraint.
 
 ##### Check out [Red](http://red-lang.org) when it reaches 0.7.0. (Ports, file I/O)
 
