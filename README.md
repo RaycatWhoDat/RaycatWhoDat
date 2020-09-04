@@ -5,12 +5,11 @@ How's it going?
 ### So, you're trying to choose a language...
 
 My current languages of choice are:
-* JavaScript (TypeScript)
+* JavaScript
+* Emacs Lisp
 * Haxe
-
-The rest are flavors of the day:
-* Lisp/Scheme (Emacs, Racket)
-* Rust (begrudgingly)
+* Raku
+* Rust
 
 #### You'll know when you need JavaScript.
 * And, if you can get away with [TypeScript](https://www.typescript-lang.org/index.html), you should.
