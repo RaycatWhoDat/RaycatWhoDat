@@ -6,10 +6,10 @@ How's it going?
 
 My current languages of choice are:
 * **JavaScript** ($$$)
-* **Rust** (For speed, $$$)
 * **Emacs Lisp** (For modifying Emacs)
 * **Haxe** (For games)
 * **Raku** (For text processing/"skriptz")
+* **D** (For speed)
 
 #### You'll know when you need JavaScript.
 * And, if you can get away with [TypeScript](https://www.typescript-lang.org/index.html), you should.
