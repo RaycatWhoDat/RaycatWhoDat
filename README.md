@@ -8,7 +8,6 @@ My current languages of choice are:
 * **JavaScript** ($$$)
 * **Raku** (For text processing/"skriptz")
 * **Rust** (For speed, $$$)
-* **Haxe** (For games)
 * **Emacs Lisp** (For modifying Emacs)
 
 #### You'll know when you need JavaScript.
