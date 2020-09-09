@@ -9,6 +9,7 @@ My current languages of choice are:
 * **Raku** (For text processing/"skriptz")
 * **Rust** (For speed, $$$)
 * **Emacs Lisp** (For modifying Emacs)
+* **Racket** (For Lisp outside of Emacs)
 
 #### You'll know when you need JavaScript.
 * And, if you can get away with [TypeScript](https://www.typescript-lang.org/index.html), you should.
