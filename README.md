@@ -6,9 +6,8 @@ How's it going?
 
 My current languages of choice are:
 * **JavaScript** ($$$)
-* **Haxe** (For games/glue)
-* **Raku** (For text processing/"skriptz")
 * **Rust** (For speed, $$$)
+* **Racket** (For prototyping)
 * **Emacs Lisp** (For modifying Emacs)
 
 Other languages pulled in when necessary.
