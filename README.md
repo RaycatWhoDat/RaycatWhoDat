@@ -7,7 +7,7 @@ How's it going?
 My current languages of choice are:
 * **JavaScript** ($$$)
 * **Haxe** (For cross-platform things)
-* **Nim** (For speed)
+* **Rust** (For speed, $$$)
 * **Raku** (For text processing/"skriptz")
 * **Emacs Lisp** (For modifying Emacs)
 
