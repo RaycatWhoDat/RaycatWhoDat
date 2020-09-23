@@ -6,10 +6,9 @@ How's it going?
 
 My current languages of choice are:
 * **JavaScript** ($$$)
-* **Haxe** (For cross-platform things)
 * **Rust** (For speed, $$$)
 * **Raku** (For text processing/"skriptz")
-* **Emacs Lisp** (For modifying Emacs)
+* **Common Lisp**
 
 Other languages pulled in when necessary.
 
