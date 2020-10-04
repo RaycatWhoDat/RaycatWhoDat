@@ -7,7 +7,7 @@ How's it going?
 My current languages of choice are:
 * **JavaScript** ($$$)
 * **Raku** (For text processing/"skriptz")
-* **Nim** (For speed)
+* **Rust** (For speed, $$$)
 
 Others are pulled in as needed.
 
