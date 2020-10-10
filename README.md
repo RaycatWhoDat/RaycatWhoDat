@@ -7,7 +7,7 @@ How's it going?
 My current languages of choice are:
 * **JavaScript** ($$$)
 * **Haxe** (For cross-platform stuff/games)
-* **Racket** (For prototyping)
+* **TXR** (For text processing)
 * **Rust** (For speed, $$$)
 
 Others are pulled in as needed.
