@@ -7,10 +7,11 @@ How's it going?
 My current languages of choice are:
 * **JavaScript** ($$$)
 * **Haxe** (For cross-platform stuff/games)
-* **Raku** (For text processing/"skriptz")
+* **Racket** (For everything in-between)
 * **Rust** (For speed, $$$)
 
 Others are pulled in as needed.
+* Special shoutout to Raku.
 
 #### You'll know when you need JavaScript.
 * And, if you can get away with [TypeScript](https://www.typescript-lang.org/index.html), you should.
