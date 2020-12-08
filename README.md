@@ -8,7 +8,7 @@
 [<img src="https://haxe.org/img/branding/haxe-logo-glyph.png" width="50px" />][haxe]
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RayMPerry&langs_count=10&layout=compact&hide=java,c%2b%2b)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RayMPerry&langs_count=10&layout=compact&hide=java,vue,c%2b%2b&exclude_repo=chronodistort,july-13th,c195,c950)](https://github.com/anuraghazra/github-readme-stats)
 [![RayMPerry's github stats](https://github-readme-stats.vercel.app/api?username=RayMPerry)](https://github.com/anuraghazra/github-readme-stats)
 
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
