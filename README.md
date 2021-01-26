@@ -1,7 +1,7 @@
 ## Current Languages of Choice
 [<img src="https://ih1.redbubble.net/image.316760221.5828/flat,800x800,075,f.jpg" width="50px" />][javascript]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1024px-EmacsIcon.svg.png" width="50px" />][elisp]
 [<img src="https://marketing.raku.org/id/1533512913/img" width="50px" />][raku]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1024px-EmacsIcon.svg.png" width="50px" />][elisp]
 [<img src="https://cnet1.cbsistatic.com/img/2013/04/02/3ded8fcf-fdb6-11e2-8c7c-d4ae52e62bcc/rust.png" width="50px" />][rust]
 
 <!-- [<img src="https://haxe.org/img/branding/haxe-logo-glyph.png" width="50px" />][haxe] -->
