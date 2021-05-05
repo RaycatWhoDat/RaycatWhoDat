@@ -5,7 +5,7 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" width="50px" />][rust]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="50px" />][godot]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RayMPerry&langs_count=10&layout=compact&hide=java,vue,c%2b%2b,haxe,python,lua&exclude_repo=chronodistort,july-13th,c195,c950)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RayMPerry&layout=compact&hide=java,c%2b%2b,python,tcl,vue,html&exclude_repo=chronodistort,july-13th,c195,c950)](https://github.com/anuraghazra/github-readme-stats)
 [![RayMPerry's github stats](https://github-readme-stats.vercel.app/api?username=RayMPerry)](https://github.com/anuraghazra/github-readme-stats)
 
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
