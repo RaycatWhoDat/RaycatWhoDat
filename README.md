@@ -1,7 +1,7 @@
 ## Current Languages of Choice
 [<img src="https://ih1.redbubble.net/image.316760221.5828/flat,800x800,075,f.jpg" width="50px" />][javascript]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1024px-EmacsIcon.svg.png" width="50px" />][elisp]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/1024px-At_sign.svg.png" width="50px" />][txr]
+[<img src="https://marketing.raku.org/id/1533512212/img_square" width="50px" />][raku]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" width="50px" />][rust]
 
 [![RayMPerry's github stats](https://github-readme-stats.vercel.app/api?username=RayMPerry)](https://github.com/anuraghazra/github-readme-stats)
