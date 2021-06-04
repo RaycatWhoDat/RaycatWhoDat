@@ -4,8 +4,6 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" width="50px" />][rust]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1024px-EmacsIcon.svg.png" width="50px" />][elisp]
 
-[![RayMPerry's github stats](https://github-readme-stats.vercel.app/api?username=RayMPerry)](https://github.com/anuraghazra/github-readme-stats)
-
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [haxe]: https://haxe.org
 [raku]: https://raku.org
