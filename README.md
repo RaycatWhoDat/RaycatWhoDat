@@ -1,7 +1,6 @@
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1024px-EmacsIcon.svg.png" width="50px" />][elisp]
 [<img src="https://ih1.redbubble.net/image.316760221.5828/flat,800x800,075,f.jpg" width="50px" />][javascript]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/1200px-At_sign.svg.png" width="50px" />][txr]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" width="50px" />][rust]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1024px-EmacsIcon.svg.png" width="50px" />][elisp]
+[<img src="https://common-lisp.net/static/imgs/lisplogo.png" width="50px" />][lisp]
 
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [haxe]: https://haxe.org
@@ -12,3 +11,4 @@
 [godot]: https://godotengine.org
 [txr]: http://nongnu.org/txr
 [nim]: https://nim-lang.org
+[lisp]: https://common-lisp.net/
