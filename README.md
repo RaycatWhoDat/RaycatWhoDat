@@ -1,5 +1,5 @@
 [<img src="https://ih1.redbubble.net/image.316760221.5828/flat,800x800,075,f.jpg" width="50px" />][javascript]
-[<img src="https://marketing.raku.org/id/1533512913/img" width="50px" />][raku]
+[<img src="https://upload.wikimedia.org/wikipedia/en/e/e9/Red_Language_Tower_Logo.png" width="50px" />][red]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" width="50px" />][rust]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1024px-EmacsIcon.svg.png" width="50px" />][elisp]
 
