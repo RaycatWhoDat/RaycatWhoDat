@@ -1,6 +1,7 @@
-[<img src="https://ih1.redbubble.net/image.316760221.5828/flat,800x800,075,f.jpg" width="50px" />][javascript]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1024px-EmacsIcon.svg.png" width="50px" />][elisp]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" width="50px" />][rust]
+[<img src="https://haxe.org/img/branding/haxe-logo-glyph.svg" width="50px" />][haxe]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px" />][javascript]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" width="50px" />][elisp]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="50px" />][rust]
 
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [haxe]: https://haxe.org
