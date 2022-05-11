@@ -1,4 +1,5 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px" />][javascript]
+[<img src="https://haxe.org/img/haxe-logo.svg" width="50px" />][racket]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" width="50px" />][elisp]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="50px" />][rust]
 
@@ -13,3 +14,4 @@
 [nim]: https://nim-lang.org
 [lisp]: https://common-lisp.net/
 [red]: http://red-lang.org
+[racket]: https://racket-lang.org
