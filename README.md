@@ -1,6 +1,7 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50px" />][typescript]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px" />][javascript]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" width="50px" />][elisp]
+[<img src="https://godotengine.org/themes/godotengine/assets/press/icon_color.svg" width="50px" />][godot]
 
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [haxe]: https://haxe.org
