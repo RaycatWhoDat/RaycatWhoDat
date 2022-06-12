@@ -1,5 +1,6 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50px" />][typescript]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px" />][javascript]
+[<img src="https://haxe.org/img/haxe-logo.svg" width="50px" />][haxe]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" width="50px" />][elisp]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="50px" />][rust]
 [<img src="https://godotengine.org/themes/godotengine/assets/press/icon_color.svg" width="50px" />][godot]
@@ -11,8 +12,8 @@
 [rust]: https://rust-lang.org
 [typescript]: https://typescriptlang.org
 [godot]: https://godotengine.org
-[ruby]: https://www.ruby-lang.org/en/
 
+[ruby]: https://www.ruby-lang.org/en/
 [txr]: http://nongnu.org/txr
 [nim]: https://nim-lang.org
 [lisp]: https://common-lisp.net/
