@@ -1,6 +1,6 @@
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Nim-logo.svg" width="75px" />][nim]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px" />][javascript]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="50px" />][ruby]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="50px" />][rust]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" width="50px" />][elisp]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" width="160px" />][swift]
 
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
