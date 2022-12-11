@@ -1,7 +1,6 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px" />][javascript]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="50px" />][ruby]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" width="50px" />][typescript]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="50px" />][rust]
-[<img src="https://svgshare.com/i/oKJ.svg" width="50px" />][swift]
 
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [typescript]: https://typescriptlang.org
