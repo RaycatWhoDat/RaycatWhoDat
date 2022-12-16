@@ -1,7 +1,7 @@
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px" />][javascript]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" width="50px" />][typescript]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/00/AssemblyScript_logo_2020.svg" width="50px" />][assemblyscript]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" width="50px" />][kotlin]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px" />][javascript]
+[<img src="https://raw.githubusercontent.com/oakmac/cljs-logo/master/cljs.svg" width="50px" />][clojurescript]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" width="50px" />][webassembly]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" width="50px" />][clojure]
 
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
@@ -13,6 +13,7 @@
 [swift]: https://swift.org
 [kotlin]: https://kotlinlang.org/
 [clojure]: https://clojure.org/
+[clojurescript]: https://clojurescript.org/
 [webassembly]: https://webassembly.org/
 [assemblyscript]: https://www.assemblyscript.org/
 
