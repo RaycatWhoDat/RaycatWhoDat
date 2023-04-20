@@ -1,18 +1,18 @@
 
 | Skills |
 | :---: |
-|[<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="50px" width="50px" />][javascript] [<img src="https://fennel-lang.org/logo.svg" height="50px" width="50px" />][fennel] [<img src="https://48pedia.org/images/8/8e/Lua-logo.svg" height="50px" width="50px" />][lua] |
-|[<img src="https://raw.githubusercontent.com/edubart/nelua-lang/master/docs/assets/img/nelua-logo.svg" height="50px" width="50px" />][nelua] [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="50px" width="50px" />][cpp] [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="50px" width="50px" />][c] |
-
-[lua]: https://www.lua.org/
-[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[c]: https://en.cppreference.com/w/c
-[nelua]: https://nelua.io/
-[cpp]: https://en.cppreference.com
+|[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="50px" width="50px" />][typescript] [<img src="https://fennel-lang.org/logo.svg" height="50px" width="50px" />][fennel]|
+|[<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="50px" width="50px" />][javascript] [<img src="https://48pedia.org/images/8/8e/Lua-logo.svg" height="50px" width="50px" />][lua]|
+|[<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="50px" width="50px" />][cpp] [<img src="https://raw.githubusercontent.com/edubart/nelua-lang/master/docs/assets/img/nelua-logo.svg" height="50px" width="50px" />][nelua]|
 
 [typescript]: https://typescriptlang.org
 [fennel]: https://fennel-lang.org
+[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[lua]: https://www.lua.org/
+[cpp]: https://en.cppreference.com
+[nelua]: https://nelua.io/
 
+[c]: https://en.cppreference.com/w/c
 [raku]: https://raku.org
 [nim]: https://nim-lang.org
 [php]: https://php.net
