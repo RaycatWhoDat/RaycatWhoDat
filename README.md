@@ -4,17 +4,18 @@ I'm a web/mobile dev focused on game development.
 |||
 |--------|-------|
 | Great at... |  [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="50px" width="50px" />][javascript] [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" height="50px" width="50px" />][typescript]  |
-| Pretty good at... | [<img src="https://marketing.raku.org/id/1533512913/svg" width="50px" />][raku]  [<img src="https://48pedia.org/images/8/8e/Lua-logo.svg" height="50px" width="50px" />][lua] [<img src="https://raw.githubusercontent.com/edubart/nelua-lang/master/docs/assets/img/nelua-logo.svg" height="50px" width="50px" />][nelua] |
-| Learning... |  [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="50px" width="50px" />][c] |
+| Pretty good at... | [<img src="https://48pedia.org/images/8/8e/Lua-logo.svg" height="50px" width="50px" />][lua] |
+| Learning... |  [<img src="https://cdn.discordapp.com/attachments/827000766643437650/1106018775641358510/odin-logo.png" height="50px" width="50px" />][odin] [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="50px" width="50px" />][c] |
 |||
 
 [typescript]: https://typescriptlang.org
-[fennel]: https://fennel-lang.org
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [lua]: https://www.lua.org/
-[nim]: https://nim-lang.org
+[odin]: https://odin-lang.org
 [c]: https://en.cppreference.com/w/c
 
+[nim]: https://nim-lang.org
+[fennel]: https://fennel-lang.org
 [cpp]: https://en.cppreference.com
 [raku]: https://raku.org
 [php]: https://php.net
