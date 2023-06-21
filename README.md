@@ -1,12 +1,7 @@
 ## 👋🏽 Howdy.
 I'm a web/mobile dev focused on game development.
 
-|||
-|--------|-------|
-| Great at... |  [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="50px" width="50px" />][javascript] [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" height="50px" width="50px" />][typescript]  |
-| Pretty good at... | [<img src="https://fennel-lang.org/logo.svg" height="50px" width="50px" />][fennel] [<img src="https://48pedia.org/images/8/8e/Lua-logo.svg" height="50px" width="50px" />][lua] |
-| Learning... | [<img src="https://raw.githubusercontent.com/github/explore/b28ef5e65d2d582ab36c30e3e2068721e71625e4/topics/zig/zig.png" height="50px" width="50px" />][zig] [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="50px" width="50px" />][c] |
-|||
+[<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" height="50px" width="50px" />][typescript] [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="50px" width="50px" />][javascript] [<img src="https://48pedia.org/images/8/8e/Lua-logo.svg" height="50px" width="50px" />][lua] [<img src="https://marketing.raku.org/id/1533512913/svg" height="50px" width="50px" />][raku]
 
 [typescript]: https://typescriptlang.org
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
