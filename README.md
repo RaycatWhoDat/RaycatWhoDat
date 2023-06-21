@@ -5,7 +5,7 @@ I'm a web/mobile dev focused on game development.
 |--------|-------|
 | Great at... |  [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="50px" width="50px" />][javascript] [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" height="50px" width="50px" />][typescript]  |
 | Pretty good at... | [<img src="https://fennel-lang.org/logo.svg" height="50px" width="50px" />][fennel] [<img src="https://48pedia.org/images/8/8e/Lua-logo.svg" height="50px" width="50px" />][lua] |
-| Learning... | [<img src="https://cdn.discordapp.com/attachments/827000766643437650/1118618970367479818/Swift_logo_color.svg" height="50px" width="50px" />][swift] [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="50px" width="50px" />][c] |
+| Learning... | [<img src="https://raw.githubusercontent.com/github/explore/b28ef5e65d2d582ab36c30e3e2068721e71625e4/topics/zig/zig.png" height="50px" width="50px" />][zig] [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="50px" width="50px" />][c] |
 |||
 
 [typescript]: https://typescriptlang.org
@@ -14,6 +14,7 @@ I'm a web/mobile dev focused on game development.
 [lua]: https://www.lua.org/
 [swift]: https://swift.org
 [c]: https://en.cppreference.com/w/c
+[zig]: https://ziglang.org
 
 [odin]: https://odin-lang.org
 [nim]: https://nim-lang.org
