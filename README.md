@@ -1,7 +1,7 @@
 ## 👋🏽 Howdy.
 I'm a web and mobile dev focused on game development.
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" height="50px" width="50px" />][typescript] [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="50px" width="50px" />][javascript] [<img src="https://48pedia.org/images/8/8e/Lua-logo.svg" height="50px" width="50px" />][lua] [<img src="https://raw.githubusercontent.com/edubart/nelua-lang/master/docs/assets/img/nelua-logo.svg" height="50px" width="50px" />][nelua] [<img src="https://marketing.raku.org/id/1533512913/svg" height="50px" width="50px" />][raku]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" height="50px" width="50px" />][typescript] [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="50px" width="50px" />][javascript] [<img src="https://marketing.raku.org/id/1533512913/svg" height="50px" width="50px" />][raku] [<img src="https://48pedia.org/images/8/8e/Lua-logo.svg" height="50px" width="50px" />][lua] [<img src="https://raw.githubusercontent.com/edubart/nelua-lang/master/docs/assets/img/nelua-logo.svg" height="50px" width="50px" />][nelua] 
 
 [typescript]: https://typescriptlang.org
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
