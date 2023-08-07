@@ -1,15 +1,15 @@
 ## 👋🏽 Howdy.
 I'm a web and mobile dev focused on game development.
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" height="50px" width="50px" />][typescript] [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="50px" width="50px" />][javascript] [<img src="https://fennel-lang.org/logo.svg" height="50px" width="50px" />][fennel] [<img src="https://48pedia.org/images/8/8e/Lua-logo.svg" height="50px" width="50px" />][lua] [<img src="https://raw.githubusercontent.com/edubart/nelua-lang/master/docs/assets/img/nelua-logo.svg" height="50px" width="50px" />][nelua] 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" height="50px" width="50px" />][typescript] [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="50px" width="50px" />][javascript] [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Nim_logo.svg" height="50px" />][nim] [<img src="https://48pedia.org/images/8/8e/Lua-logo.svg" height="50px" width="50px" />][lua]
 
 [typescript]: https://typescriptlang.org
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-
-[fennel]: https://fennel-lang.org
+[nim]: https://nim-lang.org
 [lua]: https://www.lua.org/
-[nelua]: https://nelua.io/
 
+[nelua]: https://nelua.io/
+[fennel]: https://fennel-lang.org
 [raku]: https://raku.org
 [wax]: https://github.com/LingDong-/wax
 [txr]: http://nongnu.org/txr
@@ -18,7 +18,6 @@ I'm a web and mobile dev focused on game development.
 [c]: https://en.cppreference.com/w/c
 [zig]: https://ziglang.org
 [odin]: https://odin-lang.org
-[nim]: https://nim-lang.org
 [cpp]: https://en.cppreference.com
 [janet]: https://www.janet-lang.org/
 [haxe]: https://haxe.org
