@@ -1,14 +1,14 @@
 ## 👋🏽 Howdy.
 I'm a web and mobile dev focused on game development.
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="50px" width="50px" />][javascript] [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Nim_logo.svg" height="40px" width="50px" />][nim] [<img src="https://48pedia.org/images/8/8e/Lua-logo.svg" height="50px" width="50px" />][lua]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="50px" width="50px" />][javascript] [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Nim_logo.svg" height="40px" width="50px" />][nim] [<img src="https://cdn.discordapp.com/attachments/827000766643437650/1118618970367479818/Swift_logo_color.svg" height="50px" width="50px" />][swift]
 
 [typescript]: https://typescriptlang.org
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [nim]: https://nim-lang.org
+
 [lua]: https://www.lua.org/
 [nelua]: https://nelua.io/
-
 [haxe]: https://haxe.org
 [wax]: https://github.com/LingDong-/wax
 
