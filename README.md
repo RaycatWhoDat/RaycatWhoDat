@@ -1,7 +1,7 @@
 ## 👋🏽 Howdy.
 I'm a web and mobile dev focused on game development.
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="50px" width="50px" />][javascript] [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Nim_logo.svg" height="40px" width="50px" />][nim] [<img src="https://cdn.discordapp.com/attachments/827000766643437650/1118618970367479818/Swift_logo_color.svg" height="50px" width="50px" />][swift]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50px" />][typescript] [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="50px" width="50px" />][javascript] [<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="50px" />][ruby]  [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Nim_logo.svg" height="40px" width="50px" />][nim] 
 
 [typescript]: https://typescriptlang.org
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
