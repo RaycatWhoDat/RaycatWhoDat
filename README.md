@@ -1,17 +1,17 @@
 ## 👋🏽 Howdy.
 I'm a web and mobile dev focused on game development.
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50px" />][typescript] [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="50px" width="50px" />][javascript] [<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="50px" />][ruby]  [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Nim_logo.svg" height="40px" width="50px" />][nim] 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50px" />][typescript] [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="50px" width="50px" />][javascript] [<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" width="50px" />][elisp] [<img src="https://48pedia.org/images/8/8e/Lua-logo.svg" height="50px" width="50px" />][lua]
+[<img src="https://raw.githubusercontent.com/edubart/nelua-lang/master/docs/assets/img/nelua-logo.svg" height="50px" width="50px" />][nelua]
 
 [typescript]: https://typescriptlang.org
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[nim]: https://nim-lang.org
-
 [lua]: https://www.lua.org/
 [nelua]: https://nelua.io/
+
+[nim]: https://nim-lang.org
 [haxe]: https://haxe.org
 [wax]: https://github.com/LingDong-/wax
-
 [php]: https://php.net
 [swift]: https://swift.org
 [c]: https://en.cppreference.com/w/c
