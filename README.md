@@ -1,7 +1,7 @@
 ## 👋🏽 Howdy.
 I'm a web and mobile dev focused on game development.
 
-[<img src="https://user-images.githubusercontent.com/18894/184558519-b675a903-7490-43ba-883e-0d8addacd4b9.png" width="50px" height="50px" />][civet] [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50px" />][typescript] [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="50px" width="50px" />][javascript] [<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" width="50px" />][elisp] [<img src="https://fennel-lang.org/logo.svg" height="50px" width="50px" />][fennel] [<img src="https://48pedia.org/images/8/8e/Lua-logo.svg" height="50px" width="50px" />][lua] [<img src="https://raw.githubusercontent.com/edubart/nelua-lang/master/docs/assets/img/nelua-logo.svg" height="50px" width="50px" />][nelua]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50px" />][typescript] [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="50px" width="50px" />][javascript] [<img src="https://marketing.raku.org/id/1533512913/svg" height="50px" width="50px" />][raku] [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="50px" />][rust]
 
 [civet]: https://civet.dev
 [typescript]: https://typescriptlang.org
@@ -9,7 +9,7 @@ I'm a web and mobile dev focused on game development.
 [fennel]: https://fennel-lang.org
 [lua]: https://www.lua.org
 [nelua]: https://nelua.io
-
+[raku]: https://raku.org
 [nim]: https://nim-lang.org
 [haxe]: https://haxe.org
 [wax]: https://github.com/LingDong-/wax
