@@ -1,7 +1,7 @@
 ## 👋🏽 Howdy.
 I'm a web and mobile dev focused on game development.
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50px" />][typescript] [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="50px" width="50px" />][javascript] [<img src="https://marketing.raku.org/id/1533512913/svg" height="50px" width="50px" />][raku] [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="50px" />][rust] [<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" width="50px" />][elisp] 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50px" />][typescript] [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="50px" width="50px" />][javascript] [<img src="https://marketing.raku.org/id/1533512913/svg" height="50px" width="50px" />][raku] [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" height="50px" width="75px" />][go] [<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" width="50px" />][elisp] 
 
 [civet]: https://civet.dev
 [typescript]: https://typescriptlang.org
