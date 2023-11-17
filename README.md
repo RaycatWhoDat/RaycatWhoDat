@@ -1,7 +1,7 @@
 ## 👋🏽 Howdy.
 I'm a web and mobile dev focused on game development.
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50px" />][typescript] [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="50px" width="50px" />][javascript] [<img src="https://48pedia.org/images/8/8e/Lua-logo.svg" height="50px" width="50px" />][lua] [<img src="https://raw.githubusercontent.com/edubart/nelua-lang/master/docs/assets/img/nelua-logo.svg" height="50px" width="50px" />][nelua]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50px" />][typescript] [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="50px" width="50px" />][javascript] [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/1024px-At_sign.svg.png" width="50px" />][txr] [<img src="https://48pedia.org/images/8/8e/Lua-logo.svg" height="50px" width="50px" />][lua] [<img src="https://raw.githubusercontent.com/edubart/nelua-lang/master/docs/assets/img/nelua-logo.svg" height="50px" width="50px" />][nelua]
 
 [civet]: https://civet.dev
 [typescript]: https://typescriptlang.org
